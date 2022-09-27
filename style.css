@@ -29,11 +29,7 @@ body {
     transform-style: preserve-3d;
     transition: 1s ease;
 }
-.footer{
-    margin-top: 10px;
-    color: ;
-    font-weight: bold;
-}
+
 
 @keyframes rolling {
     50% {
